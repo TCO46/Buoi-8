@@ -20,7 +20,7 @@ function price() {
 }
 //cau 3
 const foo = (x, y, z) => {
-   console.log()
+   console.log(x, y, z)
 }
 
 const foo2 = () => {
